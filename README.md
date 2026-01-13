@@ -33,6 +33,23 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 
 <br>
 
+![image](https://github.com/user-attachments/assets/12aa48f7-6f5d-4149-91a3-d7da9e00c47f)
+**VFC ( VESA Feature Connector )**
+- Digital ( Cyfrowe )
+- Parrarel ( Równoległa )
+- Synchronous ( synchroniczna )
+
+<br>
+
+**VL-BUS (Video Electronics Standards Association Local Bus)**
+- Digital ( Cyfrowe )
+- Parrarel ( Równoległa )
+- Synchronous ( synchroniczna )
+
+
+
+
+
 
 
 
