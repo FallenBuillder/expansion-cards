@@ -48,10 +48,18 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 
 <br>
 
+![image](https://github.com/user-attachments/assets/4010f7c7-20d9-4327-a8ce-6831e58d3b27)
 **VL-BUS (Video Electronics Standards Association Local Bus)**
 - Digital ( Cyfrowe )
 - Parrarel ( Równoległa )
 - Synchronous ( synchroniczna )
+
+<br>
+
+<br>
+
+**Common ports on expansion-cards**
+
 
 
 
