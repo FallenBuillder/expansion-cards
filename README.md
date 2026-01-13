@@ -28,10 +28,21 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 ![image](https://github.com/user-attachments/assets/e29e8a64-7a65-41de-9419-cc88d7bc41cb)
 **ISA (Industry Standard Architecture)**
 - Digital ( Cyfrowe )
-- Parrarel ( Równoległa )
-- Synchronous ( synchroniczna )
+- Paraller ( ròwnoległe )
+- Synchronous ( Synchroniczne )
+<br>
+
+![image](https://github.com/user-attachments/assets/13fbb818-b57d-492b-8cb3-351a21a84cdc)
+**PCIx ( Peripheral Component Interconnect Extended )**
+- Digital ( cyfrowe )
+- Paraller ( ròwnoległe )
+- Synchronous ( Synchroniczne )
 
 <br>
+
+
+
+
 
 
 
