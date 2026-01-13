@@ -6,6 +6,11 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Digital ( cyfrowe )
 - Paraller ( ròwnoległe )
 - Synchronous ( Synchroniczne )
+![image](https://github.com/user-attachments/assets/9bef9755-cd11-4df8-b6d3-6bdd796467c4)
+**AGP (Accelerated Graphics Port)**
+- Digital ( cyfrowe )
+- Paraller ( ròwnoległe )
+- Synchronous ( Synchroniczne )
 
 
 
