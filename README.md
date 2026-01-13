@@ -23,5 +23,19 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Serial ( szeregowe )
 - Synchronous ( synchroniczne )
 
+<br>
+
+![image](https://github.com/user-attachments/assets/e29e8a64-7a65-41de-9419-cc88d7bc41cb)
+**ISA (Industry Standard Architecture)**
+- Digital ( Cyfrowe )
+- Parrarel ( Równoległa )
+- Synchronous ( synchroniczna )
+
+<br>
+
+
+
+
+
 
 
