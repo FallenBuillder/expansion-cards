@@ -21,7 +21,7 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 **PCIe ( Peripheral Component Interconnec express )**
 - Digital ( cyfrowe )
 - Serial ( szeregowe )
-- Synchronous ( synchroniczne )
+- Asynchronous ( Asynchroniczne )
 
 <br>
 
