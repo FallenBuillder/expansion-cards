@@ -66,6 +66,27 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Parrarel ( Równoległa )
 - Synchronous ( synchroniczna )
 
+<br>
+
+![image](https://github.com/user-attachments/assets/5f1fc664-309d-4556-9a39-d083780f3079)
+**RS232 ( Recommended Standard 232)**
+- Digital ( Cyfrowe )
+- Serial ( Szeregowy )
+- Asynchronous ( asynchroniczny )
+
+<br>
+
+![image](https://github.com/user-attachments/assets/250b3d65-4738-4a21-a797-6e5ebf24aaa8)
+**HDMI ( High-Definition Multimedia Interface )**
+- Digital ( Cyfrowy )
+- Serial ( Szeregowy )
+- Synchronous ( Synchroniczny )
+
+<br>
+
+
+
+
 
 
 
