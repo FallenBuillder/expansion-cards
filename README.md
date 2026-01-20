@@ -60,6 +60,12 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 
 **Common ports on expansion-cards**
 
+![image](https://github.com/user-attachments/assets/7446334d-d7b2-48b2-8079-1c1aaff12696)
+**VGA ( Video Graphics Array )**
+- Analog ( Analogowe )
+- Parrarel ( Równoległa )
+- Synchronous ( synchroniczna )
+
 
 
 
