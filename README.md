@@ -107,6 +107,20 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Paraller ( równoległy )
 - Synchronous ( Synchroniczny )
 
+ <br>
+
+![image](https://github.com/user-attachments/assets/137f8f02-9b0f-46bc-8b5c-7b492313f07b)
+**rj-45 ( Registered Jack 45 )**
+- Digital ( cyfrowy )
+  
+The rest depends on the standard ( reszta zależy od standardu )
+
+![image](https://github.com/user-attachments/assets/f0907d5d-9145-43e0-968d-9421a328f0ac)
+**BNC ( Bayonet Neill–Concelman )
+- Analog ( Analogwy ) ( in CCTV cameras ) przy kamerach CCTV
+- Digital ( Cyfrowe ) ( in old computer networks ) w starych sieciach komputerowych
+
+
 
 
 
