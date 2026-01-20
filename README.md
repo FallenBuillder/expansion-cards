@@ -87,6 +87,27 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 ![image](https://github.com/user-attachments/assets/0d98929b-c62e-4f0c-8d77-72022783fa8b)
 **DVI (Digital  Interface)**
 
+DVI-A
+• Sygnał: Analogowy
+• Transmisja: Równoległa
+• Taktowanie: Synchroniczne
+DVI-D (Single Link)
+• Sygnał: Cyfrowy
+• Transmisja: Szeregowa
+• Taktowanie: Synchroniczne
+DVI-D (Dual Link)
+• Sygnał: Cyfrowy
+• Transmisja: Szeregowa
+• Taktowanie: Synchroniczne
+DVI-I (Single Link)
+• Sygnał: Cyfrowy i Analogowy
+• Transmisja: Szeregowa i Równoległa
+• Taktowanie: Synchroniczne
+DVI-I (Dual Link)
+• Sygnał: Cyfrowy i Analogowy
+• Transmisja: Szeregowa i Równoległa
+• Taktowanie: Synchroniczne
+
 -Insert DVI types here
 
 ![image](https://github.com/user-attachments/assets/34487708-775a-44e3-a6f3-0c39cd77a71d)
