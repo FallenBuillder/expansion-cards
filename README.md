@@ -120,6 +120,17 @@ The rest depends on the standard ( reszta zależy od standardu )
 - Analog ( Analogwy ) ( in CCTV cameras ) przy kamerach CCTV
 - Digital ( Cyfrowe ) ( in old computer networks ) w starych sieciach komputerowych
 
+The rest depends on the standard ( reszta zależy od standardu )
+
+<br>
+
+![image](https://github.com/user-attachments/assets/845f023a-310e-472e-a2ca-5fa5d02a0af3)
+**Game Port ( MIDI )
+- Analog ( analogowe )
+- Parallel ( równoległy )
+- Asynchronus ( Asynchroniczny )
+
+
 
 
 
