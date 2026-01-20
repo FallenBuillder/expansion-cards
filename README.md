@@ -84,8 +84,16 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 
 <br>
 
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.9ophP5r0F2TZ7aIp4cv2HgHaD4%3Fpid%3DApi&f=1&ipt=f54a344b18fc17b6bf23ca9a23973830e1f8f8d8842b6d1ef1e936b7a43288df![image](https://github.com/user-attachments/assets/88b1a17e-cd21-49e7-87b3-969be4a55673)
+**DVI (Digital Visual Interface)**
 
+-Insert DVI types here
 
+![image](https://github.com/user-attachments/assets/34487708-775a-44e3-a6f3-0c39cd77a71d)
+**USB (Universal Serial Bus)**
+- Digital ( cyfrowy )
+- Serial ( szeregowy )
+- Synchronous ( Synchroniczny )
 
 
 
