@@ -147,11 +147,19 @@ on the right ( na prawo )
 - Serial ( Szeregowy )
 - Synchronicnzy / Asynchroniczny ( Synchroniczny i Asynchroniczny )
 on the left ( na lewo )
+
 **FireWire 400. ( 4 pins )**
 - Digital ( cyfrowe )
 - Serial ( szeregowe )
 - Asynchronous / Synchronous ( Asynchroniczny i Synchroniczny )
 
+<br>
+
+![image](https://github.com/user-attachments/assets/e207340f-b2b2-4ebd-9df0-8d3716e5f540)
+**Density SCSI (HD50)**
+- Digital ( Cyfrowe)
+- Parallel ( równoległe )
+- Synchronous ( Synchronicze )
   
 
 
