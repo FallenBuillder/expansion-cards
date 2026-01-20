@@ -65,7 +65,7 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Analog ( Analogowe )
 - Parrarel ( Równoległa )
 - Synchronous ( synchroniczna )
-
+Type: Output
 <br>
 
 ![image](https://github.com/user-attachments/assets/5f1fc664-309d-4556-9a39-d083780f3079)
@@ -73,6 +73,7 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Digital ( Cyfrowe )
 - Serial ( Szeregowy )
 - Asynchronous ( asynchroniczny )
+Type: Input/Output
 
 <br>
 
@@ -81,31 +82,43 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Digital ( Cyfrowy )
 - Serial ( Szeregowy )
 - Synchronous ( Synchroniczny )
-
+Type: Output
+( also Input in newer standards )
 <br>
 
 ![image](https://github.com/user-attachments/assets/0d98929b-c62e-4f0c-8d77-72022783fa8b)
 **DVI (Digital  Interface)**
 
 -Insert DVI types here
+all DVI types are
+Type: Output
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/34487708-775a-44e3-a6f3-0c39cd77a71d)
 **USB (Universal Serial Bus)**
 - Digital ( cyfrowy )
 - Serial ( szeregowy )
-- Synchronous ( Synchroniczny )
+- Asynchronous ( Asynchroniczny )
+Type: Input/Output 
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/924f0c19-c0fb-4701-8f01-41dc96bd79c1)
 **PS/2 (Personal System/2)**
 - Digital ( cyfrowy )
 - Serial ( Szeregowy )
 - Synchronous ( Synchroniczny )
+Type: Input
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/235b2ea2-4064-4f48-8f45-05e1977c8655)
 **LPT ( Line Print Terminal )(IEEE 1284)**
 - Digital ( cyfrowy )
 - Paraller ( równoległy )
 - Synchronous ( Synchroniczny )
+type: Output
 
  <br>
 
@@ -114,6 +127,7 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Digital ( cyfrowy )
   
 The rest depends on the standard ( reszta zależy od standardu )
+Type: Input/Output
 
 ![image](https://github.com/user-attachments/assets/f0907d5d-9145-43e0-968d-9421a328f0ac)
 **BNC ( Bayonet Neill–Concelman )
@@ -121,7 +135,7 @@ The rest depends on the standard ( reszta zależy od standardu )
 - Digital ( Cyfrowe ) ( in old computer networks ) w starych sieciach komputerowych
 
 The rest depends on the standard ( reszta zależy od standardu )
-
+Type: Input/Output
 <br>
 
 ![image](https://github.com/user-attachments/assets/845f023a-310e-472e-a2ca-5fa5d02a0af3)
@@ -129,7 +143,7 @@ The rest depends on the standard ( reszta zależy od standardu )
 - Analog ( analogowe )
 - Parallel ( równoległy )
 - Asynchronus ( Asynchroniczny )
-
+Type: Input
 <br>
 
 ![image](https://github.com/user-attachments/assets/f094b17b-630f-444d-a287-ce83579e5d1e)
@@ -137,7 +151,7 @@ The rest depends on the standard ( reszta zależy od standardu )
 - Digital ( cyfrowy )
 - Parallel ( równoległy )
 - Synchronous / Asynchronous ( działa w 2 standardach )
-
+Type: Input/Output
 <br>
 
 ![image](https://github.com/user-attachments/assets/f93159d4-b3f3-45f9-b53b-c4fb70ebd111)
@@ -147,11 +161,13 @@ on the right ( na prawo )
 - Serial ( Szeregowy )
 - Synchronicnzy / Asynchroniczny ( Synchroniczny i Asynchroniczny )
 on the left ( na lewo )
+Type: Input/Output
 
 **FireWire 400. ( 4 pins )**
 - Digital ( cyfrowe )
 - Serial ( szeregowe )
 - Asynchronous / Synchronous ( Asynchroniczny i Synchroniczny )
+Type: Input/Output
 
 <br>
 
@@ -160,7 +176,7 @@ on the left ( na lewo )
 - Digital ( Cyfrowe)
 - Parallel ( równoległe )
 - Synchronous ( Synchronicze )
-  
+Type: Input/Output  
 
 
 
