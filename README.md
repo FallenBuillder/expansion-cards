@@ -32,7 +32,7 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Synchronous ( Synchroniczne )
 <br>
 
-![image](https://github.com/user-attachments/assets/13fbb818-b57d-492b-8cb3-351a21a84cdc)
+![image](https://github.com/user-attachments/assets/a45afb27-4d59-41ce-8713-c978a279610c)
 **PCIx ( Peripheral Component Interconnect Extended )**
 - Digital ( cyfrowe )
 - Paraller ( ròwnoległe )
