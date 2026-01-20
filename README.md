@@ -84,8 +84,8 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 
 <br>
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.9ophP5r0F2TZ7aIp4cv2HgHaD4%3Fpid%3DApi&f=1&ipt=f54a344b18fc17b6bf23ca9a23973830e1f8f8d8842b6d1ef1e936b7a43288df![image](https://github.com/user-attachments/assets/88b1a17e-cd21-49e7-87b3-969be4a55673)
-**DVI (Digital Visual Interface)**
+![image](https://github.com/user-attachments/assets/0d98929b-c62e-4f0c-8d77-72022783fa8b)
+**DVI (Digital  Interface)**
 
 -Insert DVI types here
 
@@ -94,6 +94,13 @@ https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Ft
 - Digital ( cyfrowy )
 - Serial ( szeregowy )
 - Synchronous ( Synchroniczny )
+
+![image](https://github.com/user-attachments/assets/924f0c19-c0fb-4701-8f01-41dc96bd79c1)
+**PS/2 (Personal System/2)**
+- Digital ( cyfrowy )
+- Serial ( Szeregowy )
+- Synchronous ( Synchroniczny )
+
 
 
 
