@@ -138,6 +138,21 @@ The rest depends on the standard ( reszta zależy od standardu )
 - Parallel ( równoległy )
 - Synchronous / Asynchronous ( działa w 2 standardach )
 
+<br>
+
+![image](https://github.com/user-attachments/assets/f93159d4-b3f3-45f9-b53b-c4fb70ebd111)
+on the right ( na prawo )
+**FireWire ( IEEE 1394 ) ( 6 pine )**
+- Digital ( cyfrowy )
+- Serial ( Szeregowy )
+- Synchronicnzy / Asynchroniczny ( Synchroniczny i Asynchroniczny )
+on the left ( na lewo )
+**FireWire 400. ( 4 pins )**
+- Digital ( cyfrowe )
+- Serial ( szeregowe )
+- Asynchronous / Synchronous ( Asynchroniczny i Synchroniczny )
+
+  
 
 
 
