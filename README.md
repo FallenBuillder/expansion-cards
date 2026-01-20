@@ -101,10 +101,12 @@ This repo is a list od expansion card types , interfaces and their attributes ad
 - Serial ( Szeregowy )
 - Synchronous ( Synchroniczny )
 
+![image](https://github.com/user-attachments/assets/235b2ea2-4064-4f48-8f45-05e1977c8655)
 **LPT ( Line Print Terminal )(IEEE 1284)**
 - Digital ( cyfrowy )
 - Paraller ( równoległy )
 - Synchronous ( Synchroniczny )
+
 
 
 
