@@ -87,7 +87,7 @@ Type: Output
 <br>
 
 ![image](https://github.com/user-attachments/assets/0d98929b-c62e-4f0c-8d77-72022783fa8b)
-**DVI (Digital  Interface)**
+**DVI (Digital Visual Interface)**
 
 DVI-A
 • Sygnał: Analogowy
