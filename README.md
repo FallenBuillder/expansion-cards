@@ -130,6 +130,13 @@ The rest depends on the standard ( reszta zależy od standardu )
 - Parallel ( równoległy )
 - Asynchronus ( Asynchroniczny )
 
+<br>
+
+![image](https://github.com/user-attachments/assets/f094b17b-630f-444d-a287-ce83579e5d1e)
+** SCSI (Small Computer System Interface)**
+- Digital ( cyfrowy )
+- Parallel ( równoległy )
+- Synchronous / Asynchronous ( działa w 2 standardach )
 
 
 
