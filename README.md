@@ -110,7 +110,7 @@ DVI-I (Dual Link)
 • Transmisja: Szeregowa i Równoległa
 • Taktowanie: Synchroniczne
 
--Insert DVI types here
+
 all DVI types are
 Type: Output
 
