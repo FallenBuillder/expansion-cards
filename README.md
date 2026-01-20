@@ -93,18 +93,26 @@ DVI-A
 • Sygnał: Analogowy
 • Transmisja: Równoległa
 • Taktowanie: Synchroniczne
+
+
 DVI-D (Single Link)
 • Sygnał: Cyfrowy
 • Transmisja: Szeregowa
 • Taktowanie: Synchroniczne
+
+
 DVI-D (Dual Link)
 • Sygnał: Cyfrowy
 • Transmisja: Szeregowa
 • Taktowanie: Synchroniczne
+
+
 DVI-I (Single Link)
 • Sygnał: Cyfrowy i Analogowy
 • Transmisja: Szeregowa i Równoległa
 • Taktowanie: Synchroniczne
+
+
 DVI-I (Dual Link)
 • Sygnał: Cyfrowy i Analogowy
 • Transmisja: Szeregowa i Równoległa
